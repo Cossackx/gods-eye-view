@@ -1,0 +1,902 @@
+{
+  "generatedAt": "2026-09-11T04:10:31.674Z",
+  "cases": {
+    "urlIran": {
+      "href": "http://localhost:4187/?lat=32.0000&lon=52.7195&zoom=4.00&view=global&timeRange=7d&layers=conflicts%2Cbases%2Chotspots%2Cnuclear%2Csanctions%2Cweather%2CcanadaAlerts%2Ceconomic%2Cwaterways%2Coutages%2Cmilitary%2Cnatural",
+      "mapClass": "map-container globe-mode",
+      "mapText": "Left-click: rotate, Mouse-wheel/middle-click: zoom, Right-click: pan\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n          \n          ⚔\n        \n ",
+      "canvas": {
+        "width": 862,
+        "height": 689,
+        "rect": {
+          "x": 1,
+          "y": 118,
+          "width": 862,
+          "height": 689,
+          "top": 118,
+          "right": 863,
+          "bottom": 807,
+          "left": 1
+        }
+      },
+      "controls": [
+        {
+          "text": "◎\nMISSION",
+          "aria": null,
+          "title": "Choose mission preset",
+          "cls": "mission-preset-button mission-preset-button--suggested",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": "SETTINGS",
+          "title": "",
+          "cls": "unified-settings-btn",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": "Close menu",
+          "title": "",
+          "cls": "mobile-menu-close",
+          "visible": true
+        },
+        {
+          "text": "⚙️\n          SETTINGS",
+          "aria": null,
+          "title": "",
+          "cls": "mobile-menu-item",
+          "visible": true
+        },
+        {
+          "text": "2D",
+          "aria": null,
+          "title": "2D Map",
+          "cls": "map-dim-btn",
+          "visible": true
+        },
+        {
+          "text": "3D",
+          "aria": null,
+          "title": "3D Globe",
+          "cls": "map-dim-btn active",
+          "visible": true
+        },
+        {
+          "text": "+",
+          "aria": "Zoom in",
+          "title": "Zoom in",
+          "cls": "map-btn zoom-in",
+          "visible": true
+        },
+        {
+          "text": "-",
+          "aria": "Zoom out",
+          "title": "Zoom out",
+          "cls": "map-btn zoom-out",
+          "visible": true
+        },
+        {
+          "text": "⌂",
+          "aria": "Reset view",
+          "title": "Reset view",
+          "cls": "map-btn zoom-reset",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": null,
+          "title": "Channel Settings",
+          "cls": "live-news-settings-btn",
+          "visible": true
+        }
+      ],
+      "visibleDialogs": [
+        {
+          "cls": "panel panel-wide",
+          "text": "⇅Live News93▾✕BloombergSkyNewsEuronewsDWCNBCCNNFrance 24AlArabiyaAlJazeeraReady when you areBloombergPlay live feed"
+        },
+        {
+          "cls": "panel panel-wide",
+          "text": "⇅Live Webcams?Live Webcams Live feeds from geopolitically significant locations worldwide: conflict zones, capital citie"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅AI Insights?AI-Powered Analysis• World Brief: AI summary (Groq/OpenRouter)• Sentiment: News tone analysis• Velocity: Fa"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅Threat Timeline?Seven-day threat-level distribution from intelligence insights.UNAVAILABLE✕\n      \n        \n          N"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅AI Strategic Posture?MethodologyAggregates military aircraft and naval vessels by theater.Normal: Baseline activityElev"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅AI Forecasts?AI Forecasts AI-generated probability estimates for geopolitical and economic events:Cross-domain coverage"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅Country Instability?MethodologyUnrest: civil disorder & protestsConflict: armed conflict intensitySecurity: military fl"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅Strategic Risk Overview?Methodology Composite score (0-100) blending:50% Country Instability (top 5 weighted)30% Geogra"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Intel Feed"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Live Intelligence"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Infrastructure Cascade"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "World News"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "United States"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Europe"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Middle East"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Africa"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Latin America"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Asia-Pacific"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Energy & Resources"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Government"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Think Tanks"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Predictions"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Metals & Materials"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Energy Complex"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Markets"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Stock Analysis"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Backtesting"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Daily Market Brief"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "WM Analyst"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Macro Stress"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Global Procurement"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Trade Policy"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Supply Chain"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "China Logistics Corridors"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "China Activity Nowcast"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Financial"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "AI/ML"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Latest Brief"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "News ↔ Markets"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "AI Market Implications"
+        }
+      ],
+      "interestingWindowKeys": [
+        "createImageBitmap",
+        "geoDebug"
+      ],
+      "bodyText": "World Monitor — Real-Time Global Intelligence Dashboard\n\nWorld Monitor is the full-spectrum real-time global intelligence dashboard: one browser workspace that combines geopolitical conflict tracking, military and civil aviation, maritime AIS, undersea cable and infrastructure maps, markets, climate hazards, cyber signals, and open-source news into a single live situation picture. Analysts, journalists, researchers, and operators use it to see how distant events connect before they harden into headlines.\n\nOn the map you can follow conflict zones and protest activity alongside earthquake and wildfire alerts, power-outage clusters, and strategic infrastructure such as military bases, nuclear facilities, and subsea cables. Aviation layers surface military and commercial flights; maritime layers track ships through chokepoints and high-risk waters. Country deep-dives open resilience, risk, and source-backed context for more than 190 states without leaving the dashboard.\n\nMarket and prediction panels sit beside the geospatial view so price moves, central-bank signals, commodities, and prediction-market odds can be read against the same map context that shows tankers, jets, and crisis co"
+    },
+    "tehranUrl": {
+      "href": "http://localhost:4187/?lat=35.6890&lon=51.0595&zoom=7.00&view=global&timeRange=7d&layers=conflicts%2Cbases%2Chotspots%2Cnuclear%2Csanctions%2Cweather%2CcanadaAlerts%2Ceconomic%2Cwaterways%2Coutages%2Cmilitary%2Cnatural",
+      "mapClass": "map-container globe-mode",
+      "mapText": "Left-click: rotate, Mouse-wheel/middle-click: zoom, Right-click: pan\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n          \n          ⚔\n ",
+      "canvas": {
+        "width": 862,
+        "height": 689,
+        "rect": {
+          "x": 1,
+          "y": 118,
+          "width": 862,
+          "height": 689,
+          "top": 118,
+          "right": 863,
+          "bottom": 807,
+          "left": 1
+        }
+      },
+      "controls": [
+        {
+          "text": "◎\nMISSION",
+          "aria": null,
+          "title": "Choose mission preset",
+          "cls": "mission-preset-button mission-preset-button--suggested",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": "SETTINGS",
+          "title": "",
+          "cls": "unified-settings-btn",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": "Close menu",
+          "title": "",
+          "cls": "mobile-menu-close",
+          "visible": true
+        },
+        {
+          "text": "⚙️\n          SETTINGS",
+          "aria": null,
+          "title": "",
+          "cls": "mobile-menu-item",
+          "visible": true
+        },
+        {
+          "text": "2D",
+          "aria": null,
+          "title": "2D Map",
+          "cls": "map-dim-btn",
+          "visible": true
+        },
+        {
+          "text": "3D",
+          "aria": null,
+          "title": "3D Globe",
+          "cls": "map-dim-btn active",
+          "visible": true
+        },
+        {
+          "text": "+",
+          "aria": "Zoom in",
+          "title": "Zoom in",
+          "cls": "map-btn zoom-in",
+          "visible": true
+        },
+        {
+          "text": "-",
+          "aria": "Zoom out",
+          "title": "Zoom out",
+          "cls": "map-btn zoom-out",
+          "visible": true
+        },
+        {
+          "text": "⌂",
+          "aria": "Reset view",
+          "title": "Reset view",
+          "cls": "map-btn zoom-reset",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": null,
+          "title": "Channel Settings",
+          "cls": "live-news-settings-btn",
+          "visible": true
+        }
+      ],
+      "visibleDialogs": [
+        {
+          "cls": "panel panel-wide",
+          "text": "⇅Live News93▾✕BloombergSkyNewsEuronewsDWCNBCCNNFrance 24AlArabiyaAlJazeeraReady when you areBloombergPlay live feed"
+        },
+        {
+          "cls": "panel panel-wide",
+          "text": "⇅Live Webcams?Live Webcams Live feeds from geopolitically significant locations worldwide: conflict zones, capital citie"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅AI Insights?AI-Powered Analysis• World Brief: AI summary (Groq/OpenRouter)• Sentiment: News tone analysis• Velocity: Fa"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅Threat Timeline?Seven-day threat-level distribution from intelligence insights.CACHED · degraded✕\n      \n        \n     "
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅AI Strategic Posture?MethodologyAggregates military aircraft and naval vessels by theater.Normal: Baseline activityElev"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅AI Forecasts?AI Forecasts AI-generated probability estimates for geopolitical and economic events:Cross-domain coverage"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅Country Instability?MethodologyUnrest: civil disorder & protestsConflict: armed conflict intensitySecurity: military fl"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅Strategic Risk Overview?Methodology Composite score (0-100) blending:50% Country Instability (top 5 weighted)30% Geogra"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Intel Feed"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Live Intelligence"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Infrastructure Cascade"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "World News"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "United States"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Europe"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Middle East"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Africa"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Latin America"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Asia-Pacific"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Energy & Resources"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Government"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Think Tanks"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Predictions"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Metals & Materials"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Energy Complex"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Markets"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Stock Analysis"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Backtesting"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Daily Market Brief"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "WM Analyst"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Macro Stress"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Global Procurement"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Trade Policy"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Supply Chain"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "China Logistics Corridors"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "China Activity Nowcast"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Financial"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "AI/ML"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Latest Brief"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "News ↔ Markets"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "AI Market Implications"
+        }
+      ],
+      "interestingWindowKeys": [
+        "createImageBitmap",
+        "geoDebug"
+      ],
+      "bodyText": "World Monitor — Real-Time Global Intelligence Dashboard\n\nWorld Monitor is the full-spectrum real-time global intelligence dashboard: one browser workspace that combines geopolitical conflict tracking, military and civil aviation, maritime AIS, undersea cable and infrastructure maps, markets, climate hazards, cyber signals, and open-source news into a single live situation picture. Analysts, journalists, researchers, and operators use it to see how distant events connect before they harden into headlines.\n\nOn the map you can follow conflict zones and protest activity alongside earthquake and wildfire alerts, power-outage clusters, and strategic infrastructure such as military bases, nuclear facilities, and subsea cables. Aviation layers surface military and commercial flights; maritime layers track ships through chokepoints and high-risk waters. Country deep-dives open resilience, risk, and source-backed context for more than 190 states without leaving the dashboard.\n\nMarket and prediction panels sit beside the geospatial view so price moves, central-bank signals, commodities, and prediction-market odds can be read against the same map context that shows tankers, jets, and crisis co"
+    },
+    "hormuzUrl": {
+      "href": "http://localhost:4187/?lat=26.6000&lon=55.9570&zoom=7.00&view=global&timeRange=7d&layers=conflicts%2Cbases%2Chotspots%2Cnuclear%2Csanctions%2Cweather%2CcanadaAlerts%2Ceconomic%2Cwaterways%2Coutages%2Cmilitary%2Cnatural",
+      "mapClass": "map-container globe-mode",
+      "mapText": "Left-click: rotate, Mouse-wheel/middle-click: zoom, Right-click: pan\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n          \n          ⚔\n ",
+      "canvas": {
+        "width": 862,
+        "height": 689,
+        "rect": {
+          "x": 1,
+          "y": 118,
+          "width": 862,
+          "height": 689,
+          "top": 118,
+          "right": 863,
+          "bottom": 807,
+          "left": 1
+        }
+      },
+      "controls": [
+        {
+          "text": "◎\nMISSION",
+          "aria": null,
+          "title": "Choose mission preset",
+          "cls": "mission-preset-button mission-preset-button--suggested",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": "SETTINGS",
+          "title": "",
+          "cls": "unified-settings-btn",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": "Close menu",
+          "title": "",
+          "cls": "mobile-menu-close",
+          "visible": true
+        },
+        {
+          "text": "⚙️\n          SETTINGS",
+          "aria": null,
+          "title": "",
+          "cls": "mobile-menu-item",
+          "visible": true
+        },
+        {
+          "text": "2D",
+          "aria": null,
+          "title": "2D Map",
+          "cls": "map-dim-btn",
+          "visible": true
+        },
+        {
+          "text": "3D",
+          "aria": null,
+          "title": "3D Globe",
+          "cls": "map-dim-btn active",
+          "visible": true
+        },
+        {
+          "text": "+",
+          "aria": "Zoom in",
+          "title": "Zoom in",
+          "cls": "map-btn zoom-in",
+          "visible": true
+        },
+        {
+          "text": "-",
+          "aria": "Zoom out",
+          "title": "Zoom out",
+          "cls": "map-btn zoom-out",
+          "visible": true
+        },
+        {
+          "text": "⌂",
+          "aria": "Reset view",
+          "title": "Reset view",
+          "cls": "map-btn zoom-reset",
+          "visible": true
+        },
+        {
+          "text": "",
+          "aria": null,
+          "title": "Channel Settings",
+          "cls": "live-news-settings-btn",
+          "visible": true
+        }
+      ],
+      "visibleDialogs": [
+        {
+          "cls": "panel panel-wide",
+          "text": "⇅Live News93▾✕BloombergSkyNewsEuronewsDWCNBCCNNFrance 24AlArabiyaAlJazeeraReady when you areBloombergPlay live feed"
+        },
+        {
+          "cls": "panel panel-wide",
+          "text": "⇅Live Webcams?Live Webcams Live feeds from geopolitically significant locations worldwide: conflict zones, capital citie"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅AI Insights?AI-Powered Analysis• World Brief: AI summary (Groq/OpenRouter)• Sentiment: News tone analysis• Velocity: Fa"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅Threat Timeline?Seven-day threat-level distribution from intelligence insights.CACHED · degraded✕\n      \n        \n     "
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅AI Strategic Posture?MethodologyAggregates military aircraft and naval vessels by theater.Normal: Baseline activityElev"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅AI Forecasts?AI Forecasts AI-generated probability estimates for geopolitical and economic events:Cross-domain coverage"
+        },
+        {
+          "cls": "panel span-2",
+          "text": "⇅Country Instability?MethodologyUnrest: civil disorder & protestsConflict: armed conflict intensitySecurity: military fl"
+        },
+        {
+          "cls": "panel",
+          "text": "⇅Strategic Risk Overview?Methodology Composite score (0-100) blending:50% Country Instability (top 5 weighted)30% Geogra"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Intel Feed"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Live Intelligence"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Infrastructure Cascade"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "World News"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "United States"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Europe"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Middle East"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Africa"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Latin America"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Asia-Pacific"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Energy & Resources"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Government"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Think Tanks"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Predictions"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Metals & Materials"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Energy Complex"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Markets"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Stock Analysis"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Backtesting"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Daily Market Brief"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "WM Analyst"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Macro Stress"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Global Procurement"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Trade Policy"
+        },
+        {
+          "cls": "panel panel-deferred-shell span-2",
+          "text": "Supply Chain"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "China Logistics Corridors"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "China Activity Nowcast"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Financial"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "AI/ML"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "Latest Brief"
+        },
+        {
+          "cls": "panel panel-deferred-shell panel-wide span-2",
+          "text": "News ↔ Markets"
+        },
+        {
+          "cls": "panel panel-deferred-shell",
+          "text": "AI Market Implications"
+        }
+      ],
+      "interestingWindowKeys": [
+        "createImageBitmap",
+        "geoDebug"
+      ],
+      "bodyText": "World Monitor — Real-Time Global Intelligence Dashboard\n\nWorld Monitor is the full-spectrum real-time global intelligence dashboard: one browser workspace that combines geopolitical conflict tracking, military and civil aviation, maritime AIS, undersea cable and infrastructure maps, markets, climate hazards, cyber signals, and open-source news into a single live situation picture. Analysts, journalists, researchers, and operators use it to see how distant events connect before they harden into headlines.\n\nOn the map you can follow conflict zones and protest activity alongside earthquake and wildfire alerts, power-outage clusters, and strategic infrastructure such as military bases, nuclear facilities, and subsea cables. Aviation layers surface military and commercial flights; maritime layers track ships through chokepoints and high-risk waters. Country deep-dives open resilience, risk, and source-backed context for more than 190 states without leaving the dashboard.\n\nMarket and prediction panels sit beside the geospatial view so price moves, central-bank signals, commodities, and prediction-market odds can be read against the same map context that shows tankers, jets, and crisis co"
+    }
+  },
+  "consoleErrors": [
+    "The script has an unsupported MIME type ('text/html').",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[App] Telegram intel fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "[App] X news-account fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Military Flight Tracking] Failed: Error: No flights returned — upstream may be down",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "[Traffic Anomalies] Failed: ApiError: Request failed with status 503",
+    "[DDoS Attacks] Failed: ApiError: Request failed with status 503",
+    "Access to fetch at 'https://maps.worldmonitor.app/country-boundary-overrides.geojson' from origin 'http://localhost:4187' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+    "Failed to load resource: net::ERR_FAILED",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[NWS + ECCC + WMO SWIC Weather] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Sanctions Pressure] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Canada alerts] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[PizzINT] Failed: Error: No PizzINT data",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "[App] Telegram intel fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "[App] X news-account fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "[Military Flight Tracking] Failed: Error: No flights returned — upstream may be down",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "[Traffic Anomalies] Failed: ApiError: Request failed with status 503",
+    "[DDoS Attacks] Failed: ApiError: Request failed with status 503",
+    "The script has an unsupported MIME type ('text/html').",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Access to fetch at 'https://maps.worldmonitor.app/country-boundary-overrides.geojson' from origin 'http://localhost:4187' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+    "Failed to load resource: net::ERR_FAILED",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[NWS + ECCC + WMO SWIC Weather] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Sanctions Pressure] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Canada alerts] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[PizzINT] Failed: Error: No PizzINT data",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[App] Telegram intel fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "[App] X news-account fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "[Military Flight Tracking] Failed: Error: No flights returned — upstream may be down",
+    "[Traffic Anomalies] Failed: ApiError: Request failed with status 503",
+    "[DDoS Attacks] Failed: ApiError: Request failed with status 503",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[NWS + ECCC + WMO SWIC Weather] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Sanctions Pressure] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Canada alerts] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[PizzINT] Failed: Error: No PizzINT data",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[App] Refresh health-freshness failed: Error: health freshness fetch failed: 200\n    at refreshDataFreshnessFromHealth (http://localhost:4187/src/services/health-freshness.ts:85:11)\n    at async refreshScheduler.scheduleRefresh.runImmediately (http://localhost:4187/src/App.ts?t=1789098617825:2930:11)",
+    "The script has an unsupported MIME type ('text/html').",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[NWS + ECCC + WMO SWIC Weather] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Access to fetch at 'https://maps.worldmonitor.app/country-boundary-overrides.geojson' from origin 'http://localhost:4187' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+    "Failed to load resource: net::ERR_FAILED",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Sanctions Pressure] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Canada alerts] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[PizzINT] Failed: Error: No PizzINT data",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[App] Telegram intel fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "[App] X news-account fetch failed: SyntaxError: Unexpected token '/', \"// @ts-che\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "Failed to load resource: the server responded with a status of 503 (Service Unavailable)",
+    "[Military Flight Tracking] Failed: Error: No flights returned — upstream may be down",
+    "[Traffic Anomalies] Failed: ApiError: Request failed with status 503",
+    "[DDoS Attacks] Failed: ApiError: Request failed with status 503",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[NWS + ECCC + WMO SWIC Weather] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Sanctions Pressure] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[Canada alerts] Failed: SyntaxError: Unexpected token 'i', \"import __v\"... is not valid JSON",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[PizzINT] Failed: Error: No PizzINT data",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "[App] Refresh health-freshness failed: Error: health freshness fetch failed: 200\n    at refreshDataFreshnessFromHealth (http://localhost:4187/src/services/health-freshness.ts:85:11)\n    at async refreshScheduler.scheduleRefresh.runImmediately (http://localhost:4187/src/App.ts?t=1789098617825:2930:11)"
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "reconciled_at": "2026-09-11T11:03:14.228244-04:00",
+  "scope_note": "File inventory only. Historical logs/screenshots are retained, not certified as complete acceptance. Upstream docs preserved.",
+  "records": [
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\APPROVED-INTEGRATION-DIRECTION.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 4541
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\CURRENT-STATE.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 275672
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\DEVELOPMENT-PLAN.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 21373
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\ARCHITECTURE-FEASIBILITY.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 21397
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\baseline-0.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 42
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\baseline-1.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 230
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\baseline-2.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 10
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\baseline-3.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 255616
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\baseline-4.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 1949
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\baseline-results.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 828
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\BORDER-ALIGNMENT.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 7622
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\border-isolated.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 994540
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\BORDER-VISUAL-VERIFICATION.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 3629
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\border-winding-ccw.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 994540
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\border-winding-cw.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 994540
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-after-flat.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 390345
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-after-globe.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 591358
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-before-flat.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 379865
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-before-globe.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 585651
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-diagnostic-url-iran.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 721208
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-hormuz.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 404054
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-surface-fixed.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 663358
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-tehran.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 416649
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\borders-winding-fixed.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 725177
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\cesium-basemap-software.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 185240
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\cesium-basemap-verification.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 397983
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\cesium-deduped.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 495108
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\dashboard-cesium-spike.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 465005
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\EXECUTION-STATUS.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 3515
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\extract-feed-registries.mjs",
+      "scope": "canonical-engineering",
+      "kind": ".mjs",
+      "bytes": 13755
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\extract-source-manifest.py",
+      "scope": "canonical-engineering",
+      "kind": ".py",
+      "bytes": 1688
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\FEED-INVENTORY-STATUS.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 4776
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\feed-inventory.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 36223
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\globe-border-diagnostic.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 38644
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\globe-border-diagnostic.mjs",
+      "scope": "canonical-engineering",
+      "kind": ".mjs",
+      "bytes": 3479
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\globe-border-diagnostic.stdout.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 38645
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\HOSTING-AND-LICENSING.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 16529
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\inventory-project-records.py",
+      "scope": "canonical-engineering",
+      "kind": ".py",
+      "bytes": 2106
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\iran-candidate-flat.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 177908
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\iran-candidate-globe.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 471673
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\iran-original-flat.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 184588
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\iran-original-globe.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 471665
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\iran-texture-registration.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 878127
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\MAP-BRIDGE-CONTRACT.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 11915
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\REGISTRY-RECONCILIATION.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 5497
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\STARTUP-RECOVERY.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 1776
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\wm-test-data.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 1976599
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\wm-typecheck.log",
+      "scope": "canonical-engineering",
+      "kind": ".log",
+      "bytes": 50
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\worldmonitor-feed-registries.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 1479342
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\worldmonitor-source-host-reconciliation.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 2376
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\discovery\\worldmonitor-source-manifest.json",
+      "scope": "canonical-engineering",
+      "kind": ".json",
+      "bytes": 511910
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\KNOWN-ISSUES.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 4073
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\M365-HOSTING-CONSTRAINTS.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 2919
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\01-style-sweep.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 1004961
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\01-voice-annotate-zilker.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 5917886
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\03-austin-cctv.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 6064699
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\04-airport-distance.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 3188741
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\05-traffic-to-cctv.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 5080454
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\06-cockpit-ar.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 5557461
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\07-helicopter-loops.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 6242391
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\08-boneyard.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 5014073
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\08-falcon9-replay.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 910111
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\09-undersea-cables.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 1886522
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\10-walking-route-flythrough.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 3876526
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\12-switch-aircraft-cockpit.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 2259945
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\14-iss-over-ukraine.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 3102742
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\15-global-radio-layer.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 2776244
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\hero-open-source-reveal.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 6487951
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\open-source-survey.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 130925
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\README.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 2945
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\start-here\\airport-ground-traffic-google-3d.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 1226853
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\start-here\\military-cockpit-dense-google-3d.gif",
+      "scope": "canonical-engineering",
+      "kind": ".gif",
+      "bytes": 8550813
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\media\\youtube-popular-videos.png",
+      "scope": "canonical-engineering",
+      "kind": ".png",
+      "bytes": 980981
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\opensky-auth.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 1656
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\OUR-PROJECT-NOTES.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 13549
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\PERFORMANCE.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 6485
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\PRODUCT-DECISIONS.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 5533
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\PROJECT-STATUS.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 10741
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\README.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 3184
+    },
+    {
+      "path": "C:\\Users\\aleks\\Projects\\gods-eye-view\\docs\\WORLDMONITOR-INSPIRED-SCOPE.md",
+      "scope": "canonical-engineering",
+      "kind": ".md",
+      "bytes": 16202
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\boundary-resolution-candidate-iran.geojson",
+      "scope": "temporary-evidence",
+      "kind": ".geojson",
+      "bytes": 13335
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\boundary-resolution-candidate-iran.md",
+      "scope": "temporary-evidence",
+      "kind": ".md",
+      "bytes": 3846
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\boundary-resolution-candidate-iran.mjs",
+      "scope": "temporary-evidence",
+      "kind": ".mjs",
+      "bytes": 5263
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\boundary-resolution-candidate-iran.provenance.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 1940
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.mjs",
+      "scope": "temporary-evidence",
+      "kind": ".mjs",
+      "bytes": 6930
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\01-initial-2d.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 14547
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\01-initial-2d.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 353893
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\02-conflicts-2d.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 14572
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\02-conflicts-2d.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 352736
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\03-iran-focused-2d.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 14575
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\03-iran-focused-2d.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 171592
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\04-iran-focused-3d.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 14575
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\04-iran-focused-3d.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 171523
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\country-fill-runtime-geometry.out\\report.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 103268
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\IRAN-3D-POLYGON-VISIBILITY-INVESTIGATION.md",
+      "scope": "temporary-evidence",
+      "kind": ".md",
+      "bytes": 5960
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\iran-globe-polygon-visibility.mjs",
+      "scope": "temporary-evidence",
+      "kind": ".mjs",
+      "bytes": 5244
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\iran-globe-polygon-visibility.out\\00-empty.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 1120576
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\iran-globe-polygon-visibility.out\\01-loaded-normalized.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 1082990
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\iran-globe-polygon-visibility.out\\02-reversed.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 1173805
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\iran-globe-polygon-visibility.out\\03-loaded-surface.png",
+      "scope": "temporary-evidence",
+      "kind": ".png",
+      "bytes": 1092694
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\iran-globe-polygon-visibility.out\\report.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 1028
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\map-renderer-runtime.json",
+      "scope": "temporary-evidence",
+      "kind": ".json",
+      "bytes": 3129
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\docs\\discovery\\map-renderer-runtime.mjs",
+      "scope": "temporary-evidence",
+      "kind": ".mjs",
+      "bytes": 2090
+    },
+    {
+      "path": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery\\BORDER-REPRO.md",
+      "scope": "temporary-evidence",
+      "kind": ".md",
+      "bytes": 4966
+    },
+    {
+      "path": "C:\\Users\\aleks\\RAZSOC\\projects\\gods-eye-view.md",
+      "scope": "existing-km-record",
+      "kind": ".md",
+      "bytes": 11860
+    },
+    {
+      "path": "C:\\Users\\aleks\\RAZSOC\\resources\\repositories\\REPO-gods-eye-view.md",
+      "scope": "existing-km-record",
+      "kind": ".md",
+      "bytes": 8488
+    },
+    {
+      "path": "C:\\Users\\aleks\\RAZSOC\\resources\\repositories\\REPO-koala73-worldmonitor.md",
+      "scope": "existing-km-record",
+      "kind": ".md",
+      "bytes": 12094
+    }
+  ],
+  "counts_by_scope": {
+    "canonical-engineering": 80,
+    "existing-km-record": 3,
+    "temporary-evidence": 24
+  }
+}

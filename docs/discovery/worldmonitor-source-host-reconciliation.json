@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "checkout": "C:\\Users\\aleks\\AppData\\Local\\Temp\\gev-worldmonitor-discovery",
+    "commit": "d906869231970005ab3e108ff5321f179e8b7457",
+    "sourceModules": [
+      "src/config/feeds.ts",
+      "server/worldmonitor/news/v1/_feeds.ts"
+    ],
+    "sourceAttributionManifest": "shared/source-attribution-manifest.json"
+  },
+  "rawRows": 894,
+  "statusCounts": {
+    "excluded": 132,
+    "terms-review": 668,
+    "reviewed": 94
+  },
+  "nonexcludedUniqueHosts": 762,
+  "nonexcludedProviderLabels": 748,
+  "reportedCatalogActiveHosts": 761,
+  "excludedByCatalogActiveFalse": [
+    {
+      "host": "gtaupdate.com",
+      "provider": "GTA Update",
+      "status": "reviewed",
+      "references": [
+        {
+          "path": "scripts/lib/gta-update.mjs"
+        }
+      ]
+    }
+  ],
+  "logicalEntries": [
+    {
+      "provider": "Fintraffic Digitraffic",
+      "host": "not-currently-wired",
+      "kind": "candidate",
+      "observed": false,
+      "license": "Not applicable: no live fetch is present in this checkout",
+      "attribution": "Excluded from the live-provider count: issue audit named Digitraffic, but no current source call was found.",
+      "status": "excluded"
+    }
+  ],
+  "logicalProviders": [
+    {
+      "provider": "Fast Company",
+      "feedLabels": [
+        "Fast Company"
+      ],
+      "transportHosts": [
+        "feeds.feedburner.com"
+      ],
+      "editorialHosts": [],
+      "originCountry": "US",
+      "coveredCountries": []
+    },
+    {
+      "provider": "NDTV",
+      "feedLabels": [
+        "NDTV",
+        "NDTV India"
+      ],
+      "transportHosts": [
+        "feeds.feedburner.com"
+      ],
+      "editorialHosts": [],
+      "originCountry": "IN",
+      "coveredCountries": [
+        "IN"
+      ]
+    },
+    {
+      "provider": "The Hacker News",
+      "feedLabels": [
+        "The Hacker News"
+      ],
+      "transportHosts": [
+        "feeds.feedburner.com"
+      ],
+      "editorialHosts": [],
+      "originCountry": "IN",
+      "coveredCountries": []
+    }
+  ],
+  "explanation": "The 762 nonexcluded host figure counts every row whose status is not excluded. The 761 catalog-active figure additionally requires observed=true, catalogActive !== false, and a credit-bearing status (terms-review or reviewed). The sole difference is the explicitly reviewed-but-disabled GTA Update row."
+}
