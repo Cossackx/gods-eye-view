@@ -1,5 +1,10 @@
 # Standalone Intelligence Workspace — Development and Project Management Plan
 
+> [!important] Historical/reference copy — routing updated 2026-09-12
+> Our combined product is **RAZ Fusion Center**. Current plans, decisions and status live in [the canonical project index](../../raz-fusion-center/docs/project/README.md) and [current status](../../raz-fusion-center/docs/project/PROJECT-STATUS.md), under `C:/Users/aleks/Projects/raz-fusion-center`. Published product repository: https://github.com/Cossackx/raz-fusion-center (private).
+> The dated statements below describe the earlier project/fork; they do not override current publication, renderer, optional free-only AI or runtime decisions. This God's Eye View checkout remains an upstream reference/rollback copy, not the active product home. Current app address: http://127.0.0.1:4195/dashboard; an app restart does not establish AIS/aircraft relay readiness.
+
+
 **Status:** Current execution plan reviewed 2026-09-11. Experimental implementation exists outside this repository but is not merged or deployed. This document does not authorize deployment, publication, billing, or unrelated-history Git merges. Canonical status will be [PROJECT-STATUS.md](../PROJECT-STATUS.md); repository navigation will be in [README.md](../README.md).
 **Product owner:** Raz (Aleksei Razsadin)
 **Delivery support:** Hermes, with bounded implementation/review tasks as authorized

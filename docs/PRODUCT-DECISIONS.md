@@ -1,5 +1,10 @@
 # Merged workspace — user product decisions
 
+> [!important] Historical/reference copy — routing updated 2026-09-12
+> Our combined product is **RAZ Fusion Center**. Current plans, decisions and status live in [the canonical project index](../../raz-fusion-center/docs/project/README.md) and [current status](../../raz-fusion-center/docs/project/PROJECT-STATUS.md), under `C:/Users/aleks/Projects/raz-fusion-center`. Published product repository: https://github.com/Cossackx/raz-fusion-center (private).
+> The dated statements below describe the earlier project/fork; they do not override current publication, renderer, optional free-only AI or runtime decisions. This God's Eye View checkout remains an upstream reference/rollback copy, not the active product home. Current app address: http://127.0.0.1:4195/dashboard; an app restart does not establish AIS/aircraft relay readiness.
+
+
 Status: Current direction and status reviewed 2026-09-11. These decisions supersede conflicting older recommendations in WORLDMONITOR-INSPIRED-SCOPE.md. Experimental implementation exists outside this repository; it is not merged or deployed. See the future canonical status page [PROJECT-STATUS.md](../PROJECT-STATUS.md) and the repository index [README.md](../README.md).
 
 ## Confirmed

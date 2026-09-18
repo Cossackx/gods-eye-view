@@ -1,5 +1,10 @@
 # God's Eye capability carry-over under the approved constraints
 
+> [!important] Historical/reference copy — routing updated 2026-09-12
+> Our combined product is **RAZ Fusion Center**. Current plans, decisions and status live in [the canonical project index](../../raz-fusion-center/docs/project/README.md) and [current status](../../raz-fusion-center/docs/project/PROJECT-STATUS.md), under `C:/Users/aleks/Projects/raz-fusion-center`. Published product repository: https://github.com/Cossackx/raz-fusion-center (private).
+> The dated statements below describe the earlier project/fork; they do not override current publication, renderer, optional free-only AI or runtime decisions. This God's Eye View checkout remains an upstream reference/rollback copy, not the active product home. Current app address: http://127.0.0.1:4195/dashboard; an app restart does not establish AIS/aircraft relay readiness.
+
+
 **Written:** 2026-09-11. **Owner:** Raz. **Status:** decision aid, not a build order.
 **Decision recorded today:** Cesium is the single 3D engine for the merged dashboard. World Monitor's globe.gl path is to be retired from the product once the Cesium path reaches parity for the layers the product needs.
 

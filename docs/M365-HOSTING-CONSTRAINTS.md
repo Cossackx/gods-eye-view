@@ -1,5 +1,10 @@
 # M365 hosting constraints — rejected/deferred historical analysis
 
+> [!important] Historical/reference copy — routing updated 2026-09-12
+> Our combined product is **RAZ Fusion Center**. Current plans, decisions and status live in [the canonical project index](../../raz-fusion-center/docs/project/README.md) and [current status](../../raz-fusion-center/docs/project/PROJECT-STATUS.md), under `C:/Users/aleks/Projects/raz-fusion-center`. Published product repository: https://github.com/Cossackx/raz-fusion-center (private).
+> The dated statements below describe the earlier project/fork; they do not override current publication, renderer, optional free-only AI or runtime decisions. This God's Eye View checkout remains an upstream reference/rollback copy, not the active product home. Current app address: http://127.0.0.1:4195/dashboard; an app restart does not establish AIS/aircraft relay readiness.
+
+
 **Reviewed:** 2026-09-11. Microsoft 365 is explicitly not part of the confirmed product direction. The selected product is a private standalone browser application with no SharePoint, Teams, OneDrive or Power Automate dependency. This file preserves the earlier M365 analysis for history only; no tenant discovery, provisioning or deployment was authorized or performed.
 
 The zero additional monthly cost priority remains confirmed, but it does not mean M365 is preferred. Paid services and hosted account flows are out of scope; unavailable or paid feeds must be explicit. See [PRODUCT-DECISIONS.md](PRODUCT-DECISIONS.md), [APPROVED-INTEGRATION-DIRECTION.md](APPROVED-INTEGRATION-DIRECTION.md), and the future canonical [PROJECT-STATUS.md](../PROJECT-STATUS.md).
